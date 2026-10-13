@@ -8,6 +8,8 @@
 # Generated housing output files
 /housesOutput*.jl
 
+/housesInput.csv
+
 # Optional test and profiling artifacts
 /coverage.out
 *.test
