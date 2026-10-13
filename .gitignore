@@ -1,0 +1,14 @@
+# macOS metadata
+.DS_Store
+
+# Compiled executables
+/csv-to-jsonl
+/csv-to-jsonl.exe
+
+# Generated housing output files
+/housesOutput*.jl
+
+# Optional test and profiling artifacts
+/coverage.out
+*.test
+*.prof
